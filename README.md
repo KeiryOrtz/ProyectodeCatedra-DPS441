@@ -10,13 +10,13 @@ Carlos Josue Ruano Batres              - RB230288
 
 Alexander Antonio Valladares Alvarado  - VA230394
 
-LINK TRELLO
+LINK TRELLO:
 https://trello.com/b/3xgymWoO/proyecto-catedra-dps441-g01t
 
-MOCK UPS UX
+MOCK UPS UX:
 https://wireframepro.mockflow.com/view/MYaouwTlvqb
 
-MOCK UPS UI
+MOCK UPS UI:
 https://wireframepro.mockflow.com/view/MqnWsLqDPh#/page/fd78411b2b0b4e62a689e6740f86e4a5
 
 Attribution 4.0 International
