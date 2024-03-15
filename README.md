@@ -3,8 +3,11 @@ INTEGRANTES - Grupo Teorico 01
 Carlos Mauricio López Garcia           - LG151035
 
 David Alejandro Menjívar Batres        - MB180702
+
 Keiry Elizabeth Ortez Vásquez          - OV230308
+
 Carlos Josue Ruano Batres              - RB230288
+
 Alexander Antonio Valladares Alvarado  - VA230394
 
 LINK TRELLO
