@@ -19,9 +19,7 @@ https://wireframepro.mockflow.com/view/MYaouwTlvqb
 MOCK UPS UI:
 https://wireframepro.mockflow.com/view/MqnWsLqDPh#/page/fd78411b2b0b4e62a689e6740f86e4a5
 
-
 LICENSE
-
 
 Attribution 4.0 International
 
