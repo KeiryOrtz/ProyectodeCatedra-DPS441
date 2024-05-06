@@ -11,7 +11,7 @@ Alexander Antonio Valladares Alvarado  - VA230394
 -----------------------------------------------------------------------
 LINK SNACKEXPODEV
 
-https://snack.expo.dev/@va230394/educafutura-test
+https://snack.expo.dev/@karlozzz/educafutura-test
 
 -----------------------------------------------------------------------
 
