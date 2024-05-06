@@ -1,7 +1,5 @@
 INTEGRANTES - Grupo Teorico 01
 
-Carlos Mauricio López Garcia           - LG151035
-
 David Alejandro Menjívar Batres        - MB180702
 
 Keiry Elizabeth Ortez Vásquez          - OV230308
