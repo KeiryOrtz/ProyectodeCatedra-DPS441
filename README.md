@@ -9,6 +9,11 @@ Carlos Josue Ruano Batres              - RB230288
 Alexander Antonio Valladares Alvarado  - VA230394
 
 -----------------------------------------------------------------------
+LINK SNACKEXPODEV
+
+https://snack.expo.dev/@va230394/educafutura-test
+
+-----------------------------------------------------------------------
 
 LINK TRELLO:
 https://trello.com/b/3xgymWoO/proyecto-catedra-dps441-g01t
