@@ -24,6 +24,8 @@ https://wireframepro.mockflow.com/view/MYaouwTlvqb
 MOCK UPS UI:
 https://wireframepro.mockflow.com/view/MqnWsLqDPh#/page/fd78411b2b0b4e62a689e6740f86e4a5
 
+LINK MANUAL TECNICO Y DE USUARIO:
+https://drive.google.com/drive/folders/13P625PeqXajUW9n3FZJcsn1-6LpOU__U?usp=sharing
 -----------------------------------------------------------------------
 
 LICENSE
